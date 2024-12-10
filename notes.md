@@ -7,8 +7,9 @@
 
 ## Flat
 
-flat-project
-├── app
+<pre>
+flat-project/
+├── app/
 │ ├── services.py
 │ ├── database.py
 │ ├── models.py
@@ -17,11 +18,13 @@ flat-project
 ├── requirements.txt
 ├── .env
 ├── .gitignore
+</pre>
 
 ## Nested
 
-nested-project
-├── app
+<pre>
+nested-project/
+├── app/
 │ ├── main.py
 │ ├── dependencies.py
 │ └── services
@@ -36,9 +39,11 @@ nested-project
 ├── requirements.txt
 ├── .env
 ├── .gitignore
+</pre>
 
 ## Modular
 
+<pre>
 modular-project
 ├── app
 │ └── modules
@@ -61,3 +66,4 @@ modular-project
 ├── requirements.txt
 ├── .env
 ├── .gitignore
+</pre>
